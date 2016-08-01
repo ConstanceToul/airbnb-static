@@ -1,0 +1,19 @@
+Seb:
+  name: Seb's home
+  description: Charming room with patio
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  city: Paris
+Anne:
+  name: Anne's home
+  description: Lovely house
+  picture: card-brussels.jpeg
+  owner_picture: anne.jpg
+  city: Brussels
+Romain:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  picture: card-london.jpeg
+  owner_picture: romain.jpg
+  city: London
+
